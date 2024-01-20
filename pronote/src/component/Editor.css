@@ -1,0 +1,38 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+body{
+background-color:#3867D6 ;
+}
+.container  {
+    display: flex;
+    gap:40px;
+}
+.input-text {
+    margin-right: 30px;
+}
+.output{
+    height: 450px;
+    width: 400px;
+}
+.text{
+    position: relative;
+    right:230px;
+}
+.pro{
+    position: relative;
+    right:154px;
+    bottom:25px;
+}
+.input-text{
+    height: 390px;
+    width: 480px;
+    border-color:  black;
+}
+.output {
+    background-color:rgb(55, 54, 54);
+}
+
+  
+ 
